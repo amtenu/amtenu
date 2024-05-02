@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm </h1>
-<p>A passionate software developer </p>
+<h1>Hi 👋, I'm Amanuel </h1>
+<p>A passionate software developer dedicated to crafting elegant solutions to complex problems, I thrive on the intersection of creativity and technical prowess. With a keen eye for detail and a commitment to excellence, I continuously strive to push the boundaries of what's possible in the digital landscape. From crafting robust backend systems to designing intuitive user interfaces, I approach each project with enthusiasm and a drive to deliver impactful results. Let's build something remarkable together.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
