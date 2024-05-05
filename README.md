@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **mini-jira SAAS**
 
-- 🌱 I’m currently learning **RxJs,ElasticSearch,Spring,Spring Boot,**
+- 🌱 I’m currently learning **Spring,Spring Boot,Phyton,Redis**
 
 - 💬 Ask me about **Javascript,Java, MongoDb,Postgres,React,Node, express, spring, docker**
 
