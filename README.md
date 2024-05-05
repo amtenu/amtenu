@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amtenu" alt="amtenu" /></a> </p>
 
-- 🔭 I’m currently working on **project-tracker**
+- 🔭 I’m currently working on **mini-jira SAAS**
 
-- 🌱 I’m currently learning **RxJs,ElasticSearch,TypeScript**
+- 🌱 I’m currently learning **RxJs,ElasticSearch,Spring,Spring Boot,**
 
-- 💬 Ask me about **react,Node, express, spring, docker**
+- 💬 Ask me about **Javascript,Java, MongoDb,Postgres,React,Node, express, spring, docker**
 
 - 📫 How to reach me **amannov21@gmail.com**
 
