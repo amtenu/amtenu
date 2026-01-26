@@ -1,14 +1,14 @@
-<h3 align="center">A passionate Software dev. </h3>
+<h3 align="center">A passionate Software dev | AWS Solutions Architect Associate(Learner) | DEVOPS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amtenu&label=Profile%20views&color=0e75b6&style=flat" alt="amtenu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amtenu" alt="amtenu" /></a> </p>
 
-- 🔭 I’m currently working on **mini-jira SAAS**
+- 🔭 I’m currently working on **Next.js(Typescript),Aws DevOps**
 
-- 🌱 I’m currently learning **Spring,Spring Boot,Phyton,Redis**
+- 🌱 I’m currently learning **Spring,Spring Boot,Phyton,Aws Archtecture ,Automation**
 
-- 💬 Ask me about **Javascript,Java, MongoDb,Postgres,React,Node, express, spring, docker**
+- 💬 Ask me about **Javascript, MongoDb,Postgres,React,Node, express, ,Java,spring, docker,k8s ,Observability**
 
 - 📫 How to reach me **amannov21@gmail.com**
 
