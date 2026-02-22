@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Software dev | AWS Solutions Architect Associate(Learner) | DEVOPS </h3>
+<h3 align="center">A passionate Software dev | AWS Solutions| DEVOPS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amtenu&label=Profile%20views&color=0e75b6&style=flat" alt="amtenu" /> </p>
 
