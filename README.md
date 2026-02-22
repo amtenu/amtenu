@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Next.js(Typescript),Aws DevOps**
 
-- 🌱 I’m currently learning **Redis,Spring Boot,Phyton,Automation**
+- 🌱 I’m currently learning **Redis,Spring Boot,Python,Automation**
 
 - 💬 Ask me about **Javascript, MongoDb,Postgres,React,Node, express, ,Java,spring, docker,k8s ,Observability**
 
