@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Next.js(Typescript),Aws DevOps**
 
-- 🌱 I’m currently learning **Redis,Spring Boot,Python,Automation**
+- 🌱 I’m currently learning **Java,Redis,Spring Boot,Python,Automation**
 
-- 💬 Ask me about **Javascript, MongoDb,Postgres,React,Node, express, ,Java,spring, docker,k8s ,Observability**
+- 💬 Ask me about **Javascript, MongoDb,Postgres,React,Node, express, docker,k8s ,Observability**
 
 - 📫 How to reach me **amannov21@gmail.com**
 
