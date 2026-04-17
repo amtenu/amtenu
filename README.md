@@ -35,7 +35,7 @@ I am a Software Developer based in Calgary, focused on building scalable web app
 #### **DevOps, Automation & Scripting**
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> AWS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python | <img src="https://www.vectorlogo.zone/logos/bashit/bashit-icon.svg" width="25"/> Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25"/> Docker | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25"/> K8s | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="25"/> Actions |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> AWS | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> Git | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="25"/> GitHub | <img src="https://www.vectorlogo.zone/logos/bashit/bashit-icon.svg" width="25"/> Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25"/> K8s |
 
 #### **Observability & SRE**
 | | | | | | |
