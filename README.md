@@ -20,9 +20,9 @@ I am a Software Developer based in Calgary, focused on building scalable web app
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Specialties
 
-#### **Frameworks & Frontend**
+#### **Frontend & Frameworks**
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="25"/> Next.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/> React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> JavaScript | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="25"/> Tailwind | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/> CSS3 |
@@ -32,15 +32,20 @@ I am a Software Developer based in Calgary, focused on building scalable web app
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="25"/> NestJS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25"/> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"/> PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="25"/> MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> Java | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="25"/> MSSQL |
 
-#### **DevOps, Automation & Scripting**
+#### **CI/CD & Version Control**
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> AWS | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="25"/> Actions | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25"/> Jenkins | <img src="https://www.vectorlogo.zone/logos/bashit/bashit-icon.svg" width="25"/> Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25"/> K8s |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> Git | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="25"/> GitHub | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="25"/> Actions | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25"/> Jenkins | <img src="https://www.vectorlogo.zone/logos/bashit/bashit-icon.svg" width="25"/> Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python |
 
-#### **Observability & SRE**
+#### **Infrastructure (IaC) & Cloud**
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="25"/> Prometheus | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="25"/> Grafana | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> Linux | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="25"/> Cypress | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="25"/> Jest | <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="25"/> Agile |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> AWS | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25"/> Kubernetes | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25"/> Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-icon.svg" width="25"/> Terraform | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> Linux | <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="25"/> Agile |
+
+#### **Testing, Observability & SRE**
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="25"/> Prometheus | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="25"/> Grafana | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="25"/> Jest | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="25"/> Cypress | <img src="https://www.svgrepo.com/show/354359/sre.svg" width="25"/> SRE | <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="25"/> Mocha |
 
 ---
 
