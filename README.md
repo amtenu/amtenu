@@ -13,8 +13,8 @@
 I am a Software Developer based in Calgary, focused on building scalable web applications and automating infrastructure. I enjoy bridging the gap between clean code and reliable deployments.
 
 - 🌍 Portfolio: **[amtenu.ca](https://amtenu.ca)**
-- 🔭 Currently working on: **Next.js (TypeScript) & AWS Cloud Architectures**
-- 🌱 Learning: **Java Spring Boot, Redis, and Advanced SRE Practices**
+- 🔭 Currently working on: **Next.js (TypeScript) ,QA , CI/CD & AWS Cloud Architectures**
+- 🌱 Learning: **Java , Spring Boot, Redis, and Advanced SRE Practices**
 - 💬 Ask me about: **React, NestJS, Docker, K8s, and Observability**
 - 📫 Reach me at: **amannov21@gmail.com**
 
