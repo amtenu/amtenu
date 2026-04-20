@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amanuel 👋</h1>
-<h3 align="center">Full Stack Developer | AWS & DevOps Enthusiast</h3>
+<h3 align="center">Full Stack Developer | AWS | DevOps </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amtenu&label=Profile%20views&color=0e75b6&style=flat" alt="amtenu" />
@@ -49,13 +49,17 @@ I am a Software Developer based in Calgary, focused on building scalable web app
 
 ---
 
-### 📊 GitHub Insights
+### 📊 2026 Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amtenu&show_icons=true&locale=en&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amtenu&show_icons=true&locale=en&theme=transparent&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amtenu&show_icons=true&locale=en&layout=compact&theme=transparent" height="150" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amtenu&theme=transparent" alt="amtenu streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amtenu&theme=transparent" width="100%" />
 </p>
