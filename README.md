@@ -49,12 +49,7 @@ I am a Software Developer based in Calgary, focused on building scalable web app
 
 ---
 
-### 📊 2026 Activity & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amtenu&show_icons=true&locale=en&theme=transparent&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amtenu&show_icons=true&locale=en&layout=compact&theme=transparent" height="150" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amtenu&theme=transparent" alt="amtenu streak" />
