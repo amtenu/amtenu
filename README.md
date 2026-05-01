@@ -14,7 +14,7 @@ I am a Software Developer based in Calgary, focused on building scalable web app
 
 - 🌍 Portfolio: **[amtenu.ca](https://amtenu.ca)**
 - 🔭 Currently working on: **NestJS, Next.js (TypeScript) ,QA , CI/CD ,Terraform, AWS Cloud Architecture & Observability**
-- 💬 Ask me about: **Node.js, React,Next.js, Nest.js, Docker & AWS Infra **
+- 💬 Ask me about: **Node.js, React,Next.js, Nest.js, Docker & AWS Infra**
 - 📫 Reach me at: **amannov21@gmail.com**
 
 ---
