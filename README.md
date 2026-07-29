@@ -55,7 +55,11 @@ CI/CD, observability, and understanding exactly what breaks and why.
 
 ---
 
+### 🚀 Featured Projects
 
+- **[Demena — Full-Stack AWS Deployment](https://github.com/amtenu/aws-todo-fullstack)** — 41 AWS resources provisioned with one `terraform apply`. ECS Fargate, RDS, ALB, VPC, Prometheus/Grafana sidecar observability, GitHub Actions CI/CD. 6 real production bugs documented at [amtenu.ca/log](https://amtenu.ca/log).
+- **[Milketa — Serverless Data Pipeline](https://github.com/amtenu/aws-data-automation-glue-lambda)** — S3 → Glue ETL (PySpark) → Athena, fully Terraform-managed. In progress.
+- **Kiray — AI Real Estate Platform** — Step Functions image pipeline with Rekognition moderation and Bedrock descriptions. 111 tests, Swagger-documented API.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amtenu&theme=transparent" alt="amtenu streak" />
@@ -64,3 +68,5 @@ CI/CD, observability, and understanding exactly what breaks and why.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amtenu&theme=transparent" width="100%" />
 </p>
+
+
