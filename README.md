@@ -10,7 +10,7 @@
 
 
 
-# Hi, I'm Amanuel 👋
+
 ### Cloud & Full-Stack Engineer | AWS · Terraform · TypeScript | AI Engineering (M.Sc. in progress)
 
 I build and ship cloud-native applications end-to-end — from NestJS/Next.js code to the
