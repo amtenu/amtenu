@@ -20,7 +20,7 @@ CI/CD, observability, and understanding exactly what breaks and why.
 - 🎓 Currently pursuing an **M.Sc. in AI Engineering** at Quantic School of Business & Technology
 - 🔭 Building: **Kiray** — an AI-powered real estate platform (NestJS, Next.js, OpenAI, AWS Rekognition/Bedrock, Step Functions)
 - 🌍 Portfolio & live engineering log: **[amtenu.ca](https://amtenu.ca)**
-- 💬 Ask me about: full-stack development, system design, NestJS/React, AWS architecture,  Terraform, NestJS, CI/CD, and serverless AI pipelines
+- 💬 Ask me about: full-stack development, system design, NestJS/React, AWS architecture,Terraform and CI/CD pipelines
 - 📫 Reach me: amannov21@gmail.com
 
 
