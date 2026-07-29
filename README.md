@@ -10,12 +10,19 @@
 
 ### 🚀 About Me
 
-I am a Software Developer based in Calgary, focused on building scalable web applications and automating infrastructure. I enjoy bridging the gap between clean code and reliable deployments.
+# Hi, I'm Amanuel 👋
+### Cloud & Full-Stack Engineer | AWS · Terraform · TypeScript | AI Engineering (M.Sc. in progress)
 
-- 🌍 Portfolio: **[amtenu.ca](https://amtenu.ca)**
-- 🔭 Currently working on: **NestJS, Next.js (TypeScript) ,QA , CI/CD ,Terraform, AWS Cloud Architecture & Observability**
-- 💬 Ask me about: **Node.js, React,Next.js, Nest.js, Docker & AWS Infra**
-- 📫 Reach me at: **amannov21@gmail.com**
+I build and ship cloud-native applications end-to-end — from NestJS/Next.js code to the
+AWS infrastructure that runs it. I care about the whole lifecycle: clean code, Terraform IaC,
+CI/CD, observability, and understanding exactly what breaks and why.
+
+🎓 Currently pursuing an **M.Sc. in AI Engineering** at Quantic School of Business & Technology
+🔭 Building: **Kiray** — an AI-powered real estate platform (NestJS, Next.js, OpenAI, AWS Rekognition/Bedrock, Step Functions)
+🌍 Portfolio & live engineering log: **[amtenu.ca](https://amtenu.ca)**
+💬 Ask me about: full-stack development, system design, NestJS/React, AWS architecture,  Terraform, NestJS, CI/CD, and serverless AI pipelines
+📫 Reach me: amannov21@gmail.com
+
 
 ---
 
